@@ -1,0 +1,13 @@
+# Node
+frontend/node_modules/
+
+# Python
+backend/venv/
+
+# Environment variables
+backend/.env
+frontend/.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
